@@ -5,6 +5,11 @@
 **_This text is extremely important_**
 _This text is italicized_
 
+***MY Name Is PALAK***
+**_This is  my github markdown features file_**
+
+
+
 
 
 
